@@ -1,0 +1,4 @@
+apiVersion: v2
+name: traversal-poc
+description: Path traversal PoC
+version: 1.0.0

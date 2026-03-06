@@ -1,0 +1,6 @@
+PATH_TRAVERSAL_CONFIRMED
+Written by: createWorkloadCatalog API
+charTargetDirName: ../../../../tmp/traversal-poc
+Resolved to: /tmp/traversal-poc/
+This file should not exist here.
+Impact: Arbitrary write on container filesystem.
